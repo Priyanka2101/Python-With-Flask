@@ -1,0 +1,13 @@
+requests
+Flask
+render_template
+request
+url_for
+redirect
+session
+SQLAlchemy 
+text
+mysql.connector
+panas
+MySQLdb
+json_normalize
