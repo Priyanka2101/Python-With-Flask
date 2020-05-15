@@ -11,3 +11,4 @@ mysql.connector
 panas
 MySQLdb
 json_normalize
+table
